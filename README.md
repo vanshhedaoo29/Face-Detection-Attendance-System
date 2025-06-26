@@ -172,7 +172,7 @@ This project is licensed under the MIT License.
 |         |             |                  |
 |---------------|-------------|------------|
 | Author      | Vansh Hedaoo | Vedant Rajurkar |
-| Email       |vanshhedaooprpote@gmail.com|     |
+| Email       |vanshhedaooprpote@gmail.com|  rajurkarvedant8@gmail.com   |
 | LinkedIn|        |              |
 | Portfolio|        |                 |
 ---
